@@ -1,4 +1,3 @@
-
 DATA = []
 
 def init_db(initial_records=None):
